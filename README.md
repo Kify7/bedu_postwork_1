@@ -23,8 +23,8 @@ Consideramos que ha sido un trabajo relevante para poder conocernos y comenzar a
 
 ## Método de Trabajo
 
-*Se creo el repositorio para trabajar en equipo.
-*Cada interante creo su branch.
-*Medio de comunicacón via Slack.
-*Cada integrannte aportó ideas y comentarios útiles para el proyecto en los commits y en slack.
-*Se estudiaron diferentes soluciones.
+* Se creo el repositorio para trabajar en equipo.
+* Cada interante creo su branch.
+* Medio de comunicacón via Slack.
+* Cada integrannte aportó ideas y comentarios útiles para el proyecto en los commits y en slack.
+* Se estudiaron diferentes soluciones.
