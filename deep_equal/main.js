@@ -26,16 +26,16 @@ function deepEqual(a, b) {
     }
 }
 
-
-
 const Rachel = {
     firstName: ('Rachell'),
     lastName: ('Dguez')
 }
 
 console.log('Test 1', deepEqual(3, 3))
-console.log('Test 2',
-    deepEqual(3, '3'))
+console.log('Test 2', deepEqual(3, '3'))
+// Considero que en el 3 test no estamos cumpliendo con lo requerido en el problema pues tan solo con
+// comprobar que ambos objetos son iguales ya la función retorna true y lo que nos piden es que aun
+// así lo comprobemos comparando las propiedades de los objetos.
 console.log('Test 3', deepEqual(Rachel, Rachel))
 
 console.log('Test 4', deepEqual(Rachel, {
