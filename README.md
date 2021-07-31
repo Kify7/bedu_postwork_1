@@ -9,4 +9,6 @@ Jessica Astrid Ortega Murillo
 
 Karla Flores Valona
 
+Jorge Alberto Gómez
+
 -------------------------------------------------------
